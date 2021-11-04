@@ -6,7 +6,7 @@
  * @donate https://www.paypal.me/TomaawaCL
  * @description A sleek, customizable Discord theme. Discord server: https://discord.gg/4zYtNm2W24  Donate: https://www.paypal.me/TomaawaCL
  * @website https://tinkypinky123321.wixsite.com/hackertinkypinky
- * @source 
+ * @source https://github.com/Tomaawa123/discord-source
  * @invite https://discord.gg/4zYtNm2W24
 */
 @import url(https://plusinsta.xyz/discord-plus/assets/plugins.css);
